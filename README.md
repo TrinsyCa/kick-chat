@@ -1,6 +1,6 @@
-# Kick Live Chat
+# <div align=center><img src="https://media.tenor.com/56rb9SP2BC0AAAAi/kick-kick-logo.gif" height="150"><br>Kick<br>Live Chat</div>
 
-## 🚀 Instalization
+### 🚀 Setup
 
 - Install **dotenv**:
 ```cmd
